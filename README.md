@@ -10,6 +10,6 @@ I'm a passionate computer science student and aspiring data scientist.  <br>Curr
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Moeinrzm&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Moeinrzm&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeinrzm&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![]()
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
