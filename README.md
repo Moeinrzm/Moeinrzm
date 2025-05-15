@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate computer science student and aspiring data scientist.  <br>Currently focused on mastering **Python**, learning **data science**, and sharpening my **problem-solving** skills.<br>- 🎓 Computer Science Student<br>- 💻 Currently learning **Python for Data Science**<br>- 📊 Interested in **Machine Learning**, **Data Analysis**, and **AI**<br>- 🔍 Exploring **algorithms** and **data structures**<br>- 🐧 Learning my way around **Linux** and the terminal<br>- 🌱 Always curious and open to learning new tech
+I'm a passionate computer engineering student and aspiring data scientist.  <br>Currently focused on mastering **Python**, learning **data science**, and sharpening my **problem-solving** skills.<br>- 🎓 Computer Science Student<br>- 💻 Currently learning **Python for Data Science**<br>- 📊 Interested in **Machine Learning**, **Data Analysis**, and **AI**<br>- 🔍 Exploring **algorithms** and **data structures**<br>- 🐧 Learning my way around **Linux** and the terminal<br>- 🌱 Always curious and open to learning new tech
 
 
 ## 🌐 Socials:
