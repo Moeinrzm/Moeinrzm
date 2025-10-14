@@ -40,5 +40,3 @@ Currently, I'm at the beginning of my Data Science journey — learning how to c
 🔗 [www.linkedin.com/in/moeinrazmi]
 
 ---
-
-⭐️ *“Every dataset has a story — I’m learning how to tell it with Python.”*
