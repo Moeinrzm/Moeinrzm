@@ -27,12 +27,6 @@ Currently, I'm at the beginning of my Data Science journey — learning how to c
 - Building small projects and sharing them here on GitHub  
 
 ---
-
-## 📂 Future Projects
-- Data Cleaning and Visualization  
-- Exploratory Data Analysis (EDA)  
-- Simple Machine Learning Models  
-
 ---
 
 ## 📫 Contact
