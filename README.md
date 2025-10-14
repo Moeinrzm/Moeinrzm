@@ -13,9 +13,10 @@ Currently, I'm at the beginning of my Data Science journey — learning how to c
 
 ## 🐍 Skills
 - **Programming Language:** Python  
-- **Core Concepts:** Variables, Loops, Functions, OOP  
-- **Tools:** Jupyter Notebook, Google Colab, VS Code  
-- **Focus Areas:** Data Analysis, Visualization, and Machine Learning (in progress)
+- **Core Concepts:** OOP,Data Structures & Algorithms
+- **Tools & Environment:** Jupyter Notebook,VS Code, Git & GitHub  
+- **Data Science Focus:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Basic Machine Learning (in progress)  
+- **Mindset:** Curious and eager to learn new skills  
 
 ---
 
