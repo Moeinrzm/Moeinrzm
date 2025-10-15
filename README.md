@@ -12,7 +12,7 @@ Currently, I'm at the beginning of my Data Science journey — learning how to c
 ---
 
 ## Skills
-- **Programming Language:** Python  
+- **Programming Language:** Python,c++,c#  
 - **Core Concepts:** OOP,Data Structures & Algorithms
 - **Tools & Environment:** Jupyter Notebook,VS Code, Git & GitHub  
 - **Data Science Focus:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Basic Machine Learning (in progress)  
