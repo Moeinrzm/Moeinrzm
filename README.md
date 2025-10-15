@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Moein Razmi
+# Hi, I'm Moein Razmi
 
-🎓 **Computer Science Student**  
-📊 **Aspiring Data Scientist**
+ **Computer Science Student**  
+ **Aspiring Data Scientist**
 
 ---
 
-## 🧠 About Me
+##  About Me
 I'm passionate about data, problem-solving, and building intelligent systems using Python.  
 Currently, I'm at the beginning of my Data Science journey — learning how to clean, analyze, and visualize data effectively.
 
 ---
 
-## 🐍 Skills
+## Skills
 - **Programming Language:** Python  
 - **Core Concepts:** OOP,Data Structures & Algorithms
 - **Tools & Environment:** Jupyter Notebook,VS Code, Git & GitHub  
@@ -20,7 +20,7 @@ Currently, I'm at the beginning of my Data Science journey — learning how to c
 
 ---
 
-## 🌱 Current Learning Focus
+##  Current Learning Focus
 - Python for Data Science  
 - Working with libraries like **NumPy**, **Pandas**, and **Matplotlib**  
 - Understanding the basics of **Machine Learning**  
