@@ -7,7 +7,7 @@
 
 ##  About Me
 I'm passionate about data, problem-solving, and building intelligent systems using Python.  
-Currently, I'm at the beginning of my Data Science journey — learning how to clean, analyze, and visualize data effectively.
+Currently, I'm at the beginning of my Data Science journey
 
 ---
 
@@ -25,7 +25,6 @@ Currently, I'm at the beginning of my Data Science journey — learning how to c
 - Working with libraries like **NumPy**, **Pandas**, and **Matplotlib**  
 - Understanding the basics of **Machine Learning**  
 - Building small projects and sharing them here on GitHub  
-
 ---
 ---
 
