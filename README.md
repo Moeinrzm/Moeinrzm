@@ -1,6 +1,6 @@
 # Hi, I'm Moein Razmi
 
- **Computer Science Student**  
+ **Computer engineering Student**  
  **Aspiring Data Scientist**
 
 ---
